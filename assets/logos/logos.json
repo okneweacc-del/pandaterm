@@ -1,0 +1,187 @@
+{
+ "_comment": "Logos: <name>: file + colors. In the .txt use $1..$9 to switch to colors[0..8]. Source: fastfetch (MIT) + your custom.txt",
+ "logos": {
+  "arch": {
+   "file": "arch.txt",
+   "colors": [
+    "#3a96dd",
+    "#3a96dd"
+   ]
+  },
+  "ubuntu": {
+   "file": "ubuntu.txt",
+   "colors": [
+    "#e95420",
+    "#e95420"
+   ]
+  },
+  "debian": {
+   "file": "debian.txt",
+   "colors": [
+    "#e74856",
+    "#cccccc"
+   ]
+  },
+  "kali": {
+   "file": "kali.txt",
+   "colors": [
+    "#3b78ff",
+    "#7f7f7f"
+   ]
+  },
+  "kali_small": {
+   "file": "kali_small.txt",
+   "colors": [
+    "#3b78ff",
+    "#7f7f7f"
+   ]
+  },
+  "fedora": {
+   "file": "fedora.txt",
+   "colors": [
+    "#3b78ff",
+    "#cccccc"
+   ]
+  },
+  "linux": {
+   "file": "linux.txt",
+   "colors": [
+    "#cccccc",
+    "#7f7f7f",
+    "#f9a825"
+   ]
+  },
+  "mint": {
+   "file": "mint.txt",
+   "colors": [
+    "#16c60c",
+    "#cccccc"
+   ]
+  },
+  "manjaro": {
+   "file": "manjaro.txt",
+   "colors": [
+    "#16c60c"
+   ]
+  },
+  "opensuse": {
+   "file": "opensuse.txt",
+   "colors": [
+    "#16c60c",
+    "#cccccc"
+   ]
+  },
+  "gentoo": {
+   "file": "gentoo.txt",
+   "colors": [
+    "#b4009e",
+    "#cccccc"
+   ]
+  },
+  "windows": {
+   "file": "windows.txt",
+   "colors": [
+    "#3b78ff",
+    "#3b78ff",
+    "#3b78ff",
+    "#3b78ff"
+   ]
+  },
+  "windows10": {
+   "file": "windows10.txt",
+   "colors": [
+    "#e74856",
+    "#16c60c",
+    "#3b78ff",
+    "#f9a825"
+   ]
+  },
+  "android": {
+   "file": "android.txt",
+   "colors": [
+    "#16c60c",
+    "#cccccc"
+   ]
+  },
+  "macos": {
+   "file": "macos.txt",
+   "colors": [
+    "#16c60c",
+    "#f9a825",
+    "#ff6b6b",
+    "#e74856",
+    "#b4009e",
+    "#3b78ff"
+   ]
+  },
+  "pop": {
+   "file": "pop.txt",
+   "colors": [
+    "#3a96dd",
+    "#cccccc"
+   ]
+  },
+  "endeavouros": {
+   "file": "endeavouros.txt",
+   "colors": [
+    "#b4009e",
+    "#e74856",
+    "#3b78ff"
+   ]
+  },
+  "nixos": {
+   "file": "nixos.txt",
+   "colors": [
+    "#3b78ff",
+    "#3a96dd",
+    "#3b78ff",
+    "#3a96dd",
+    "#3b78ff",
+    "#3a96dd"
+   ]
+  },
+  "void": {
+   "file": "void.txt",
+   "colors": [
+    "#16c60c",
+    "#7f7f7f"
+   ]
+  },
+  "alpine": {
+   "file": "alpine.txt",
+   "colors": [
+    "#3b78ff"
+   ]
+  },
+  "kali_braille": {
+   "file": "kali_braille.txt",
+   "colors": [
+    "#3b8bff"
+   ]
+  },
+  "debian_braille": {
+   "file": "debian_braille.txt",
+   "colors": [
+    "#e0245e"
+   ]
+  },
+  "arch_braille": {
+   "file": "arch_braille.txt",
+   "colors": [
+    "#1793d1"
+   ]
+  },
+  "tux_braille": {
+   "file": "tux_braille.txt",
+   "colors": [
+    "#f5c542"
+   ]
+  },
+  "panda": {
+   "file": "panda.txt",
+   "colors": [
+    "#e8f4ee"
+   ]
+  }
+ }
+}

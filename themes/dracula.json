@@ -1,0 +1,3 @@
+{ "name": "dracula", "background_color": "#282a36", "text_color": "#f8f8f2", "prompt_color": "#50fa7b",
+  "error_color": "#ff5555", "suggest_color": "#f1fa8c", "tab_active_color": "#44475a", "tab_inactive_color": "#21222c",
+  "border_color": "#6272a4", "font_name": "Consolas", "font_size": 16, "animation_speed": 1.0, "effects": [] }

@@ -1,0 +1,39 @@
+{
+  // Comments are allowed. Relative paths are resolved against the folder of the .exe.
+  "window": {
+    "title": "PandaTerm",
+    "width": 1100,
+    "height": 700,
+    "rounded_corners": true,
+    "glass_backdrop": "mica"          // mica | acrylic | tabbed  (Windows 11, used by the liquid_glass theme)
+  },
+  "theme": "default",
+  "python_path": "",                    // e.g. "C:\\Python312\\python.exe" (empty = auto-detect)
+  "max_lines": 5000,
+  "welcome": true,                      // panda banner in the first tab
+  "performance": "balanced",            // eco (30 fps cap, fewer effects) | balanced | max
+  "terminal": {
+    "default_shell": "pandash",         // pandash (built-in commands) | powershell | pwsh | cmd | wsl | full path of a program
+    "pty": "auto"                       // auto: python/node/vim/ssh/powershell... run in a real pseudo-terminal | always | never
+  },
+  "shell": { "name": "pandash", "start_dir": "" },
+  "background": {
+    "type": "image",                    // "image" | "gif" | "video" | "color" | "off"
+    "path": "assets/panda_dark.png",    // panda_dark.png for dark themes, panda_light.png for light themes (switched automatically)
+    "color": "#000000",
+    "opacity": 0.32,
+    "fit": "corner",                    // corner | cover | contain | stretch | tile
+    "loop": true,
+    "blur": 0,
+    "brightness": 1.0
+  },
+  // neofetch / linux mode. Logos live in assets/logos (see `logo list`). logo_rows: tall braille logos are shrunk to this height.
+  "neofetch": { "logo": "panda", "logo_rows": 20, "os_label": "", "show_palette": true },
+  "linux": { "enabled": false, "distro": "kali", "user": "", "host": "" },
+  // Spotify: the redirect URI http://127.0.0.1:<port>/callback must be added in the Spotify developer dashboard.
+  "spotify": { "port": 8888 },
+  "os_fallback": {
+    "on_win10_use_solid": true,         // Windows 10: never try Mica/Acrylic, use solid theme colours
+    "on_win10_glass_fallback": "frosted" // liquid_glass on Windows 10: "frosted" (blur-behind) or "solid"
+  }
+}

@@ -1,0 +1,3 @@
+{ "name": "liquid_glass", "background_color": "#10182850", "text_color": "#f2f6ff", "prompt_color": "#8fd3ff",
+  "error_color": "#ff7b7b", "suggest_color": "#ffd98a", "tab_active_color": "#ffffff38", "tab_inactive_color": "#ffffff14",
+  "border_color": "#ffffff66", "font_name": "Segoe UI", "font_size": 16, "animation_speed": 1.0, "effects": ["glass"] }
